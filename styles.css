@@ -1,0 +1,51 @@
+/* whole card */
+* {
+    margin:0;
+    padding:0;
+}
+.new-student-box {
+    background-color: #cb3600;
+    color: #fff;
+    height: 20px;
+    width: 100px;
+    text-align: center;
+    padding:1px;
+    position: relative;
+}
+
+.headshot {
+    width:400px;
+    margin:auto;
+}
+img {
+    height:auto;
+    width:400px;
+    border-top-right-radius: 15%;
+    position:absolute;
+    
+}
+.text-area {
+    padding:40px
+}
+h1 {
+  padding-bottom:5px 
+}  
+.text-box {
+height: 275px;
+width: 400px;
+border-top: #cb3600 solid 5px;
+background-color: #fff;
+border-color: white 5px;
+border-bottom-left-radius:15%;
+margin: auto;
+margin-top:278px
+
+}
+
+p{
+    padding: 20px 0px;
+}
+body {
+    background-color: rgb(230, 228, 228);
+    margin-top: 100px;
+}
